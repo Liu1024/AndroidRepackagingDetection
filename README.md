@@ -1,1 +1,2 @@
 # AndroidRepackagingDetection
+# Android Studio
